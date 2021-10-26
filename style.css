@@ -82,7 +82,7 @@ body {
 
 .inputbox input:focus + label,
 .inputbox input:valid + label {
-    top: -40px;
+    top: -45px;
     left: 0;
 }
 
